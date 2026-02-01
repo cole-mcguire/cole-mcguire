@@ -15,7 +15,7 @@ MS Applied Mathematics & Statistics @ Colorado School of Mines (2026)
 ## Technical Skills
 **Languages:** Python, MATLAB, R  
 **Methods:** PDE solvers, stochastic calculus, Monte Carlo methods, numerical optimization  
-**Tools:** NumPy, SciPy, PyTorch, Git
+**Tools:** NumPy, SciPy, PyTorch
 
 ## Contact
 - Email: mcguirecp313@gmail.com
