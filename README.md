@@ -8,7 +8,7 @@ MS Applied Mathematics & Statistics @ Colorado School of Mines (2026)
 - Computational biology (disease modeling, cardiac dynamics)
 
 ## Featured Projects
-- [Black-Scholes PDE Solver](link) - 2nd-order finite difference solver for option pricing
+- [Black-Scholes PDE Solver](link) - European call options pricing models with comparison to Black-Scholes
 - [Cardiac Arrhythmia Model](link) - Independent model replicating heart block patterns
 - [Advanced PDE Solvers](link) - Suite of validated solvers for complex geometries
 
