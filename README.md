@@ -20,4 +20,3 @@ MS Applied Mathematics & Statistics @ Colorado School of Mines (2026)
 ## Contact
 - Email: mcguirecp313@gmail.com
 - LinkedIn: www.linkedin.com/in/cole-mcguire-51aa823a9
-- Resume: [link to PDF on personal site if you have one]
