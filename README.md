@@ -23,8 +23,11 @@ studying how transformers represent information internally.
 ## Technical Skills
 
 **Languages:** Python, MATLAB, R
+
 **ML/DL:** PyTorch; transformer architectures (autoregressive LMs, multi-head attention); training loops; checkpointing
+
 **Interpretability:** TransformerLens; linear probing; Logit Lens; Tuned Lens; KL-divergence objectives
+
 **Tools:** NumPy, SciPy, pandas; Streamlit; Plotly; Hugging Face datasets; uv/pyproject tooling; Git/GitHub
 
 ## Contact
