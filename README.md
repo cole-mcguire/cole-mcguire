@@ -1,25 +1,33 @@
 # Cole McGuire
 
-MS Applied Mathematics & Statistics @ Colorado School of Mines (2026)
+MS Computational and Applied Mathematics @ Colorado School of Mines (2026)
+
+Applied mathematician and ML researcher focused on mechanistic interpretability —
+studying how transformers represent information internally.
 
 ## Research Interests
-- Mechanistic interpretability of transformers (logit lens, tuned lens, probing internal representations)
-- Deep learning systems + training dynamics (autoregressive LMs, attention variants, debugging + evaluation)
+
+- Mechanistic interpretability of transformers (linear probing, Logit Lens, Tuned Lens)
+- Deep learning systems and training dynamics (autoregressive LMs, attention variants, debugging + evaluation)
 - Numerical methods & scientific computing (PDEs; finite difference/finite element methods)
 
 ## Featured Projects
-- [Lens Explorer (Interpretability)](https://github.com/cole-mcguire/lens-explorer) — Streamlit tool comparing Logit Lens vs. Tuned Lens to visualize per-layer next-token predictions in a transformer.
-- [Transformers From Scratch (PyTorch)](https://github.com/bguevel/LLM1) — Implemented and trained autoregressive Transformers (multi-head + single-head) on Wikipedia summaries and *Frankenstein*, including dynamic vocab + checkpointed training.
-- [Black-Scholes PDE Solver](link) - European call options pricing models with comparison to Black-Scholes
-- [Cardiac Arrhythmia Model](link) - Independent model replicating heart block patterns
-- [Advanced PDE Solvers](link) - Suite of validated solvers for complex geometries
+
+- [Mechanistic Interpretability: Rubik's Cube Testbed](https://github.com/cole-mcguire/cube-interpretability) — Using a 2×2×2 Rubik's cube as a fully-controlled, ground-truth state space to study how transformers learn internal representations. Includes a full cube simulation engine and a TransformerLens-based probing pipeline.
+- [Lens Explorer (Interpretability)](https://github.com/cole-mcguire/lens-explorer) — Streamlit tool comparing Logit Lens vs. Tuned Lens to visualize per-layer next-token predictions in a transformer, built from scratch on Pythia-14m.
+- Linear Probing of Transformer Hidden States — Trained linear probes with TransformerLens to detect textual features (quotation context, document position) from hidden states, with an interactive visualizer to inspect predictions against ground truth.
+- [Transformers From Scratch (PyTorch)](https://github.com/bguevel/LLM1) — Collaborative project implementing and training autoregressive Transformers (multi-head + single-head) on Wikipedia summaries and *Frankenstein*, including dynamic vocab and checkpointed training. 
+- Scientific Computing & PDE Solvers — Finite-difference and finite-element PDE solvers implemented in MATLAB, validated via manufactured solutions and convergence studies.
+- Biomedical Mathematical Modeling — Modeled cardiac dynamics (heart block patterns) and cortical-column neurodegeneration using difference/differential equations and frequency analysis.
 
 ## Technical Skills
-**Languages:** Python, MATLAB, R  
-**ML/DL:** PyTorch; transformer architectures (autoregressive LMs, multi-head attention); training loops; checkpointing  
-**Interpretability:** TransformerLens; logit lens; tuned lens; per-layer probing (affine probes); KL-divergence objectives  
+
+**Languages:** Python, MATLAB, R
+**ML/DL:** PyTorch; transformer architectures (autoregressive LMs, multi-head attention); training loops; checkpointing
+**Interpretability:** TransformerLens; linear probing; Logit Lens; Tuned Lens; KL-divergence objectives
 **Tools:** NumPy, SciPy, pandas; Streamlit; Plotly; Hugging Face datasets; uv/pyproject tooling; Git/GitHub
 
 ## Contact
+
 - Email: mcguirecp313@gmail.com
-- LinkedIn: www.linkedin.com/in/cole-mcguire-51aa823a9
+- LinkedIn: [www.linkedin.com/in/cole-mcguire-51aa823a9](http://www.linkedin.com/in/cole-mcguire-51aa823a9)
